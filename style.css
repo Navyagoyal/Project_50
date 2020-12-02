@@ -1,0 +1,15 @@
+h1{
+    color:blueviolet;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.header{
+    background-color: azure;
+    display:flex;
+    justify-content:space-between;
+    border:solid;
+    font-style: italic;
+}
+.background{
+    background-color: blanchedalmond;
+}
